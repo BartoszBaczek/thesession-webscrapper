@@ -2,11 +2,11 @@
 
 ## Description
 
-Downloads all tunes from thesession.org in abc format
+Downloads all tunes from thesession.org in abc format.
 
 ## To use
 
-To clone and run you'll need [CasperJS](http://casperjs.org/)From your command line:
+To clone and run you'll need [CasperJS](http://casperjs.org/). From your command line:
 ```bash
 # Clone this repository
 git clone https://github.com/BartoszBaczek/thesession-webscrapper.git
