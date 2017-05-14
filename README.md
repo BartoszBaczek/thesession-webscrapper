@@ -16,3 +16,16 @@ cd /thesession-webscrapper
 npm install && casperjs scrapper.js
 ```
 
+## Optional parameters
+```bash
+--log=logFile.txt     // output file path
+```
+```bash
+--first=10            // page to start from (https://thesession.org/tunes/{first}
+```
+
+```bash
+--count=100           // number of pages to download from first
+```
+
+#### License [MIT](LICENSE.md)
